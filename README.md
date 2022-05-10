@@ -46,9 +46,9 @@ This template was made with a well-defined directory structure.
  src/
   ├── article/  # A module that manages "article" resources
   │   ├── schema
-  │   |   └──article.schema.ts
+  │   │   └──article.schema.ts
   │   ├── dto
-  │   |   └──article.dto.ts
+  │   │   └──article.dto.ts
   │   ├── article.module.ts
   │   ├── article.controller.ts
   │   ├── article.service.ts
